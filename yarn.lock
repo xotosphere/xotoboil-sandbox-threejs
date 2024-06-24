@@ -14260,9 +14260,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xotoboil-starter-react-3d@workspace:.":
+"xotoboil-microservice-springreact-3d@workspace:.":
   version: 0.0.0-use.local
-  resolution: "xotoboil-starter-react-3d@workspace:."
+  resolution: "xotoboil-microservice-springreact-3d@workspace:."
   dependencies:
     "@react-three/drei": "npm:^9.66.1"
     "@react-three/fiber": "npm:^8.13.0"
